@@ -1,0 +1,73 @@
+#myh1 {
+  color: #2323ece7;
+}
+
+#head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mymain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#myfooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  font-size: 24px;
+  color: black;
+  font-weight: 500;
+}
+
+input[type="number"] {
+  font-size: 18px;
+  height: 30px;
+  text-align: center;
+}
+
+#box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+#c-f {
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
+
+#f-c {
+  margin-bottom: 20px;
+}
+
+#btn {
+  background-color: rgb(233, 58, 58);
+  color: whitesmoke;
+  border-style: none;
+  border-radius: 6px;
+  font-size: 15px;
+  padding: 10px 15px;
+}
+
+.container {
+  border: 2px solid whitesmoke;
+  width: 35vw;
+  height: 280px;
+  border-radius: 6px;
+  background-color: whitesmoke;
+  margin-top: 25px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
